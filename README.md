@@ -1,9 +1,9 @@
 # VDIS (Vehicle Detection Image set) v1:
 ## A Scalable Benchmark for Vehicle Detection and Counting
 
-[Mohammadali Charoosaei](mailto:m.a.charoosaei@gmail.com) <sup>1*</sup>, [Hamidreza Charoosaei](mailto:hamidreza.tnt92@gmail.com) <sup>2</sup>, [Yasaman Kabiri](mailto:kabiriyacmn@gmail.com) <sup>2</sup>
+[Mohammadali Charoosaei](mailto:m.a.charoosaei@gmail.com) <sup>1*</sup>
 
-<sup>1</sup> Department of Computer Engineering, Jundi-Shapur University of Technology, <br/> <sup>2</sup> Department of Computer Engineering, Azad University
+<sup>1</sup> Department of Computer Engineering, Jundi-Shapur University of Technology
 
 
 VDIS (Vehicle Detection Image Set), which includes 1329 photos from cameras and 3382 vehicle objects, is the name of the image set created for this article. These pictures were captured by actual traffic cameras, which are employed to ticket vehicles that exceed speed limits and other regulations. Examples of the VDIS images are shown in this Figure.
@@ -12,8 +12,8 @@ VDIS (Vehicle Detection Image Set), which includes 1329 photos from cameras and 
 ## Terms & Conditions
 
 - The dataset is available for non-commercial research purposes only.
-- You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
-- You agree not to further copy, publish or distribute any portion of the fudanroilab. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
+- You agree not to reproduce, duplicate, copy, sell, trade, resell, or exploit for any commercial purposes, any portion of the images and any portion of derived data.
+- You agree not to further copy, publish, or distribute any portion of the fudanroilab. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
 
 
 
