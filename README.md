@@ -3,7 +3,7 @@
 
 [Mohammadali Charoosaei](mailto:m.a.charoosaei@gmail.com) <sup>1*</sup>
 
-<sup>1</sup> Department of Computer Engineering, Jundi-Shapur University of Technology
+<sup>1</sup> Department of Computing and Mathematics, Manchester Metropolitan University
 
 
 VDIS (Vehicle Detection Image Set), which includes 1329 photos from cameras and 3382 vehicle objects, is the name of the image set created for this article. These pictures were captured by actual traffic cameras, which are employed to ticket vehicles that exceed speed limits and other regulations. Examples of the VDIS images are shown in this Figure.
